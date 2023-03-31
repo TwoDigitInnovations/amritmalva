@@ -4,6 +4,7 @@
   "description": "BE apis for the Amrit Malwa Capital mobile apps",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint:fix": "eslint --fix .",
     "start:dev": "nodemon index.js"
